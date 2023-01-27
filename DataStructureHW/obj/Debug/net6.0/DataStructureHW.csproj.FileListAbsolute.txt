@@ -1,0 +1,15 @@
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\bin\Debug\net6.0\DataStructureHW.exe
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\bin\Debug\net6.0\DataStructureHW.deps.json
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\bin\Debug\net6.0\DataStructureHW.runtimeconfig.json
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\bin\Debug\net6.0\DataStructureHW.dll
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\bin\Debug\net6.0\DataStructureHW.pdb
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\obj\Debug\net6.0\DataStructureHW.csproj.AssemblyReference.cache
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\obj\Debug\net6.0\DataStructureHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\obj\Debug\net6.0\DataStructureHW.AssemblyInfoInputs.cache
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\obj\Debug\net6.0\DataStructureHW.AssemblyInfo.cs
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\obj\Debug\net6.0\DataStructureHW.csproj.CoreCompileInputs.cache
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\obj\Debug\net6.0\DataStructureHW.dll
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\obj\Debug\net6.0\refint\DataStructureHW.dll
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\obj\Debug\net6.0\DataStructureHW.pdb
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\obj\Debug\net6.0\DataStructureHW.genruntimeconfig.cache
+C:\Users\LENGION\Desktop\CodeAcademy\DataStructureHW\DataStructureHW\obj\Debug\net6.0\ref\DataStructureHW.dll
